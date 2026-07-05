@@ -1,0 +1,4033 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0039908,
+          40.7175029
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "alminerech-12333-farah-atassi-metamorphosis",
+          "name": "Farah Atassi: Metamorphosis",
+          "title": "Farah Atassi: Metamorphosis",
+          "artist": "Farah Atassi",
+          "links": {
+            "profile": "https://www.alminerech.com/exhibitions/12333-farah-atassi-metamorphosis/",
+            "card": "/exhibitions/12333-farah-atassi-metamorphosis/",
+            "www": "https://www.alminerech.com/exhibitions/12333-farah-atassi-metamorphosis/"
+          },
+          "begin_date": "2026-06-26",
+          "end_date": "2026-07-31",
+          "type": "S",
+          "venue": {
+            "name": "Almine Rech New York",
+            "address": "361 Broadway",
+            "zip": "NY 10013",
+            "city": {
+              "name": "New York"
+            },
+            "geolocation": [
+              -74.0039908,
+              40.7175029
+            ]
+          },
+          "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12333",
+          "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12333",
+          "images": [
+            {
+              "image_url": "https://www.alminerech.com/en/image/og/exhibition/12333",
+              "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12333",
+              "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12333",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Opening on Friday, June 26, 2026 from 6 to 8 pm"
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "alminerech",
+            "name": "Almine Rech",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.alminerech.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0039908,
+          40.7175029
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "alminerech-12393-haley-josephs-love-of-waters",
+          "name": "Haley Josephs: Love of Waters",
+          "title": "Haley Josephs: Love of Waters",
+          "artist": "Haley Josephs",
+          "links": {
+            "profile": "https://www.alminerech.com/exhibitions/12393-haley-josephs-love-of-waters/",
+            "card": "/exhibitions/12393-haley-josephs-love-of-waters/",
+            "www": "https://www.alminerech.com/exhibitions/12393-haley-josephs-love-of-waters/"
+          },
+          "begin_date": "2026-06-26",
+          "end_date": "2026-07-31",
+          "type": "S",
+          "venue": {
+            "name": "Almine Rech New York",
+            "address": "361 Broadway",
+            "zip": "NY 10013",
+            "city": {
+              "name": "New York"
+            },
+            "geolocation": [
+              -74.0039908,
+              40.7175029
+            ]
+          },
+          "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12393",
+          "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12393",
+          "images": [
+            {
+              "image_url": "https://www.alminerech.com/en/image/og/exhibition/12393",
+              "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12393",
+              "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12393",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Opening on Friday, June 26, 2026 from 6 to 8 pm"
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "alminerech",
+            "name": "Almine Rech",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.alminerech.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3646635,
+          48.8594708
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "alminerech-12331-javier-calleja-curiously",
+          "name": "Javier Calleja: CURIOUSLY",
+          "title": "Javier Calleja: CURIOUSLY",
+          "artist": "Javier Calleja",
+          "links": {
+            "profile": "https://www.alminerech.com/exhibitions/12331-javier-calleja-curiously/",
+            "card": "/exhibitions/12331-javier-calleja-curiously/",
+            "www": "https://www.alminerech.com/exhibitions/12331-javier-calleja-curiously/"
+          },
+          "begin_date": "2026-05-30",
+          "end_date": "2026-07-25",
+          "type": "S",
+          "venue": {
+            "name": "Almine Rech Paris, Turenne",
+            "address": "64 rue de Turenne",
+            "zip": "75003",
+            "city": {
+              "name": "Paris"
+            },
+            "geolocation": [
+              2.3646635,
+              48.8594708
+            ]
+          },
+          "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12331",
+          "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12331",
+          "images": [
+            {
+              "image_url": "https://www.alminerech.com/en/image/og/exhibition/12331",
+              "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12331",
+              "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12331",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Opening on Saturday, May 30, 2026 from 6 to 8 pm"
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "alminerech",
+            "name": "Almine Rech",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.alminerech.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3138507,
+          48.8710494
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "alminerech-12302-piene-mack-uecker-light-space-and-time",
+          "name": "Piene, Mack, Uecker: Light, Space and Time",
+          "title": "Piene, Mack, Uecker: Light, Space and Time",
+          "artist": "Piene, Mack, Uecker",
+          "links": {
+            "profile": "https://www.alminerech.com/exhibitions/12302-piene-mack-uecker-light-space-and-time/",
+            "card": "/exhibitions/12302-piene-mack-uecker-light-space-and-time/",
+            "www": "https://www.alminerech.com/exhibitions/12302-piene-mack-uecker-light-space-and-time/"
+          },
+          "begin_date": "2026-05-30",
+          "end_date": "2026-07-08",
+          "type": "G",
+          "venue": {
+            "name": "Almine Rech Paris, Matignon",
+            "address": "18 avenue Matignon",
+            "zip": "75008",
+            "city": {
+              "name": "Paris"
+            },
+            "geolocation": [
+              2.3138507,
+              48.8710494
+            ]
+          },
+          "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12302",
+          "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12302",
+          "images": [
+            {
+              "image_url": "https://www.alminerech.com/en/image/og/exhibition/12302",
+              "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12302",
+              "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12302",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "alminerech",
+            "name": "Almine Rech",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.alminerech.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4872516,
+          31.241341
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "alminerech-12332-thu-van-tran-no-longer-day-not-yet-night",
+          "name": "Thu-Van Tran: No Longer Day, Not Yet Night",
+          "title": "Thu-Van Tran: No Longer Day, Not Yet Night",
+          "artist": "Thu-Van Tran",
+          "links": {
+            "profile": "https://www.alminerech.com/exhibitions/12332-thu-van-tran-no-longer-day-not-yet-night/",
+            "card": "/exhibitions/12332-thu-van-tran-no-longer-day-not-yet-night/",
+            "www": "https://www.alminerech.com/exhibitions/12332-thu-van-tran-no-longer-day-not-yet-night/"
+          },
+          "begin_date": "2026-05-29",
+          "end_date": "2026-08-08",
+          "type": "S",
+          "venue": {
+            "name": "Almine Rech Shanghai",
+            "address": "27 Huqiu Road, 2nd Floor",
+            "zip": "200002",
+            "city": {
+              "name": "Shanghai"
+            },
+            "geolocation": [
+              121.4872516,
+              31.241341
+            ]
+          },
+          "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12332",
+          "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12332",
+          "images": [
+            {
+              "image_url": "https://www.alminerech.com/en/image/og/exhibition/12332",
+              "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12332",
+              "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12332",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Opening on Friday, May 29, 2026 from 5 to 7 pm"
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "alminerech",
+            "name": "Almine Rech",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.alminerech.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.424865,
+          43.7391183
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "alminerech-12192-genieve-figgis-drama-club",
+          "name": "Genieve Figgis: Drama Club",
+          "title": "Genieve Figgis: Drama Club",
+          "artist": "Genieve Figgis",
+          "links": {
+            "profile": "https://www.alminerech.com/exhibitions/12192-genieve-figgis-drama-club/",
+            "card": "/exhibitions/12192-genieve-figgis-drama-club/",
+            "www": "https://www.alminerech.com/exhibitions/12192-genieve-figgis-drama-club/"
+          },
+          "begin_date": "2026-04-14",
+          "end_date": "2026-09-25",
+          "type": "S",
+          "venue": {
+            "name": "Almine Rech Monaco",
+            "address": "20 Avenue de la Costa",
+            "zip": "98000",
+            "city": {
+              "name": "Monaco"
+            },
+            "geolocation": [
+              7.424865,
+              43.7391183
+            ]
+          },
+          "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12192",
+          "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12192",
+          "images": [
+            {
+              "image_url": "https://www.alminerech.com/en/image/og/exhibition/12192",
+              "preview_url": "https://www.alminerech.com/en/image/og/exhibition/12192",
+              "thumb_url": "https://www.alminerech.com/en/image/og/exhibition/12192",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Opening on Saturday, April 25, 2026 from 6 to 8 pm"
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "alminerech",
+            "name": "Almine Rech",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.alminerech.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1408811,
+          51.5180402
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "edelassanti-141-lonnie-holley-at-castello-di-rivoli",
+          "name": "Lonnie Holley at Castello di Rivoli",
+          "title": "Lonnie Holley at Castello di Rivoli",
+          "artist": null,
+          "links": {
+            "profile": "https://edelassanti.com/exhibitions/141-lonnie-holley-at-castello-di-rivoli/",
+            "card": "/exhibitions/141-lonnie-holley-at-castello-di-rivoli/",
+            "www": "https://edelassanti.com/exhibitions/141-lonnie-holley-at-castello-di-rivoli/"
+          },
+          "begin_date": "2026-03-27",
+          "end_date": "2026-08-23",
+          "type": "S",
+          "venue": {
+            "name": "Edel Assanti",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1408811,
+              51.5180402
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/exhibitions/images/exhibitions/141/lonnie-holley-inserzioni-installation-views-castello-di-rivoli-turin-italy.-lonnie-holley.-courtesy-the-artist-and-castello-di-rivoli.-photos-by-sebastiano-pellion-di-persano_1.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/141/0g7a0517.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/exhibitions/images/exhibitions/141/lonnie-holley-inserzioni-installation-views-castello-di-rivoli-turin-italy.-lonnie-holley.-courtesy-the-artist-and-castello-di-rivoli.-photos-by-sebastiano-pellion-di-persano_1.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/exhibitions/images/exhibitions/141/lonnie-holley-inserzioni-installation-views-castello-di-rivoli-turin-italy.-lonnie-holley.-courtesy-the-artist-and-castello-di-rivoli.-photos-by-sebastiano-pellion-di-persano_1.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/141/0g7a0517.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "edelassanti",
+            "name": "Edel Assanti",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://edelassanti.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1408811,
+          51.5180402
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "edelassanti-142-oren-pinhassi-at-the-arts-club-of-chicago",
+          "name": "Oren Pinhassi at The Arts Club of Chicago",
+          "title": "Oren Pinhassi at The Arts Club of Chicago",
+          "artist": null,
+          "links": {
+            "profile": "https://edelassanti.com/exhibitions/142-oren-pinhassi-at-the-arts-club-of-chicago/",
+            "card": "/exhibitions/142-oren-pinhassi-at-the-arts-club-of-chicago/",
+            "www": "https://edelassanti.com/exhibitions/142-oren-pinhassi-at-the-arts-club-of-chicago/"
+          },
+          "begin_date": "2026-03-31",
+          "end_date": "2026-08-08",
+          "type": "S",
+          "venue": {
+            "name": "Edel Assanti",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1408811,
+              51.5180402
+            ]
+          },
+          "preview_url": "https://edelassanti.com/custom_images/1200x630c/usr/images/news/main_image/650/untitled-19.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/142/untitled-5.jpg",
+          "images": [
+            {
+              "image_url": "https://edelassanti.com/custom_images/1200x630c/usr/images/news/main_image/650/untitled-19.jpg",
+              "preview_url": "https://edelassanti.com/custom_images/1200x630c/usr/images/news/main_image/650/untitled-19.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/142/untitled-5.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "edelassanti",
+            "name": "Edel Assanti",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://edelassanti.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1408811,
+          51.5180402
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "edelassanti-176-noemie-goudal-at-le-portique",
+          "name": "Noémie Goudal at Le Portique",
+          "title": "Noémie Goudal at Le Portique",
+          "artist": null,
+          "links": {
+            "profile": "https://edelassanti.com/exhibitions/176-noemie-goudal-at-le-portique/",
+            "card": "/exhibitions/176-noemie-goudal-at-le-portique/",
+            "www": "https://edelassanti.com/exhibitions/176-noemie-goudal-at-le-portique/"
+          },
+          "begin_date": "2026-04-18",
+          "end_date": "2026-09-28",
+          "type": "S",
+          "venue": {
+            "name": "Edel Assanti",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1408811,
+              51.5180402
+            ]
+          },
+          "preview_url": "https://edelassanti.com/custom_images/1200x630c/usr/images/news/main_image/668/screenshot-2026-06-04-at-17.10.37.png",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/176/noemie-goudal-2.jpg",
+          "images": [
+            {
+              "image_url": "https://edelassanti.com/custom_images/1200x630c/usr/images/news/main_image/668/screenshot-2026-06-04-at-17.10.37.png",
+              "preview_url": "https://edelassanti.com/custom_images/1200x630c/usr/images/news/main_image/668/screenshot-2026-06-04-at-17.10.37.png",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/176/noemie-goudal-2.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "edelassanti",
+            "name": "Edel Assanti",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://edelassanti.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1408811,
+          51.5180402
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "edelassanti-143-si-on-at-bunkier-sztuki",
+          "name": "Si On at Bunkier Sztuki",
+          "title": "Si On at Bunkier Sztuki",
+          "artist": null,
+          "links": {
+            "profile": "https://edelassanti.com/exhibitions/143-si-on-at-bunkier-sztuki/",
+            "card": "/exhibitions/143-si-on-at-bunkier-sztuki/",
+            "www": "https://edelassanti.com/exhibitions/143-si-on-at-bunkier-sztuki/"
+          },
+          "begin_date": "2026-04-22",
+          "end_date": "2026-08-31",
+          "type": "S",
+          "venue": {
+            "name": "Edel Assanti",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1408811,
+              51.5180402
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/exhibitions/images/exhibitions/143/rsn_3947s.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/143/rsn_4055s.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/exhibitions/images/exhibitions/143/rsn_3947s.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/exhibitions/images/exhibitions/143/rsn_3947s.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/143/rsn_4055s.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "edelassanti",
+            "name": "Edel Assanti",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://edelassanti.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1408811,
+          51.5180402
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "edelassanti-178-oren-pinhassi-at-worcester-college",
+          "name": "Oren Pinhassi at Worcester College",
+          "title": "Oren Pinhassi at Worcester College",
+          "artist": null,
+          "links": {
+            "profile": "https://edelassanti.com/exhibitions/178-oren-pinhassi-at-worcester-college/",
+            "card": "/exhibitions/178-oren-pinhassi-at-worcester-college/",
+            "www": "https://edelassanti.com/exhibitions/178-oren-pinhassi-at-worcester-college/"
+          },
+          "begin_date": "2026-05-01",
+          "end_date": "2026-07-05",
+          "type": "S",
+          "venue": {
+            "name": "Edel Assanti",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1408811,
+              51.5180402
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/178/photo-2026-04-30-10-56-59.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/178/photo-2026-04-30-10-56-59.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/178/photo-2026-04-30-10-56-59.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/178/photo-2026-04-30-10-56-59.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/178/photo-2026-04-30-10-56-59.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "edelassanti",
+            "name": "Edel Assanti",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://edelassanti.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1408811,
+          51.5180402
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "edelassanti-177-lonnie-holley-at-labanque",
+          "name": "Lonnie Holley at Labanque",
+          "title": "Lonnie Holley at Labanque",
+          "artist": null,
+          "links": {
+            "profile": "https://edelassanti.com/exhibitions/177-lonnie-holley-at-labanque/",
+            "card": "/exhibitions/177-lonnie-holley-at-labanque/",
+            "www": "https://edelassanti.com/exhibitions/177-lonnie-holley-at-labanque/"
+          },
+          "begin_date": "2026-05-23",
+          "end_date": "2026-11-15",
+          "type": "S",
+          "venue": {
+            "name": "Edel Assanti",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1408811,
+              51.5180402
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/177/lh-2025-049-image.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/177/lh-2025-049-image.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/177/lh-2025-049-image.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/177/lh-2025-049-image.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-edelassanti2/usr/images/exhibitions/main_image_override/177/lh-2025-049-image.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "edelassanti",
+            "name": "Edel Assanti",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://edelassanti.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1848248,
+          21.5595383
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "athrart-51-sensitivity-of-the-ruins-hatem-al-ahmed-solo-exhibition",
+          "name": "Sensitivity of the Ruins: Hatem Al Ahmed | Solo Exhibition",
+          "title": "Sensitivity of the Ruins: Hatem Al Ahmed | Solo Exhibition",
+          "artist": "Sensitivity of the Ruins",
+          "links": {
+            "profile": "https://athrart.com/exhibitions/51-sensitivity-of-the-ruins-hatem-al-ahmed-solo-exhibition/",
+            "card": "/exhibitions/51-sensitivity-of-the-ruins-hatem-al-ahmed-solo-exhibition/",
+            "www": "https://athrart.com/exhibitions/51-sensitivity-of-the-ruins-hatem-al-ahmed-solo-exhibition/"
+          },
+          "begin_date": "2026-05-20",
+          "end_date": null,
+          "type": "S",
+          "venue": {
+            "name": "ATHR Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              39.1848248,
+              21.5595383
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/51/sensitivity-of-the-ruins-exh-v41.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/51/sensitivity-of-the-ruins-exh-v41.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/51/sensitivity-of-the-ruins-exh-v41.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/51/sensitivity-of-the-ruins-exh-v41.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/51/sensitivity-of-the-ruins-exh-v41.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "ATHR Gallery is pleased to announce Sensitivity of the ruins , a highly anticipated solo exhibition by artist Hatem Al Ahmad curated by Rania Majinyan , opening on May 20 at JAX District."
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "athrart",
+            "name": "ATHR Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://athrart.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1848248,
+          21.5595383
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "athrart-50-syntax-of-the-ever-changing-abdullah-al-othman-solo-exhibition",
+          "name": "Syntax of the Ever-Changing: Abdullah Al Othman | Solo Exhibition",
+          "title": "Syntax of the Ever-Changing: Abdullah Al Othman | Solo Exhibition",
+          "artist": "Syntax of the Ever-Changing",
+          "links": {
+            "profile": "https://athrart.com/exhibitions/50-syntax-of-the-ever-changing-abdullah-al-othman-solo-exhibition/",
+            "card": "/exhibitions/50-syntax-of-the-ever-changing-abdullah-al-othman-solo-exhibition/",
+            "www": "https://athrart.com/exhibitions/50-syntax-of-the-ever-changing-abdullah-al-othman-solo-exhibition/"
+          },
+          "begin_date": "2026-05-20",
+          "end_date": null,
+          "type": "S",
+          "venue": {
+            "name": "ATHR Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              39.1848248,
+              21.5595383
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/50/syntax-of-the-ever-changing-exh-v12.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/50/syntax-of-the-ever-changing-exh-v12.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/50/syntax-of-the-ever-changing-exh-v12.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/50/syntax-of-the-ever-changing-exh-v12.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite2195/usr/images/exhibitions/main_image_override/50/syntax-of-the-ever-changing-exh-v12.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "ATHR Gallery is pleased to announce Syntax of the Ever-Changing , a highly anticipated solo exhibition by Saudi artist Abdullah Al Othman, opening on May 20 at JAX District."
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "athrart",
+            "name": "ATHR Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://athrart.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1004532,
+          51.5190453
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "beerslondon-144-georgia-dymock-shared-appetite",
+          "name": "GEORGIA DYMOCK: SHARED APPETITE",
+          "title": "GEORGIA DYMOCK: SHARED APPETITE",
+          "artist": "GEORGIA DYMOCK",
+          "links": {
+            "profile": "https://beerslondon.com/exhibitions/144-georgia-dymock-shared-appetite/",
+            "card": "/exhibitions/144-georgia-dymock-shared-appetite/",
+            "www": "https://beerslondon.com/exhibitions/144-georgia-dymock-shared-appetite/"
+          },
+          "begin_date": "2026-07-02",
+          "end_date": "2026-07-11",
+          "type": "S",
+          "venue": {
+            "name": "Beers London",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1004532,
+              51.5190453
+            ]
+          },
+          "preview_url": "https://beerslondon.com/custom_images/1200x630c/usr/images/publications/main_image/76/insta-size.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/144/_dsc6411.jpg",
+          "images": [
+            {
+              "image_url": "https://beerslondon.com/custom_images/1200x630c/usr/images/publications/main_image/76/insta-size.jpeg",
+              "preview_url": "https://beerslondon.com/custom_images/1200x630c/usr/images/publications/main_image/76/insta-size.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/144/_dsc6411.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "beerslondon",
+            "name": "Beers London",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://beerslondon.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1004532,
+          51.5190453
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "beerslondon-147-take-stock",
+          "name": "TAKE STOCK",
+          "title": "TAKE STOCK",
+          "artist": null,
+          "links": {
+            "profile": "https://beerslondon.com/exhibitions/147-take-stock/",
+            "card": "/exhibitions/147-take-stock/",
+            "www": "https://beerslondon.com/exhibitions/147-take-stock/"
+          },
+          "begin_date": "2026-07-02",
+          "end_date": "2026-07-11",
+          "type": "S",
+          "venue": {
+            "name": "Beers London",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1004532,
+              51.5190453
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/147/_dsc6403hr.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/147/_dsc6403hr.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/147/_dsc6403hr.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/147/_dsc6403hr.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/147/_dsc6403hr.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "beerslondon",
+            "name": "Beers London",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://beerslondon.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1004532,
+          51.5190453
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "beerslondon-145-andrew-salgado-glory",
+          "name": "ANDREW SALGADO: GLORY!",
+          "title": "ANDREW SALGADO: GLORY!",
+          "artist": "ANDREW SALGADO",
+          "links": {
+            "profile": "https://beerslondon.com/exhibitions/145-andrew-salgado-glory/",
+            "card": "/exhibitions/145-andrew-salgado-glory/",
+            "www": "https://beerslondon.com/exhibitions/145-andrew-salgado-glory/"
+          },
+          "begin_date": "2026-07-16",
+          "end_date": "2026-08-15",
+          "type": "S",
+          "venue": {
+            "name": "Beers London",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1004532,
+              51.5190453
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1388,h_620,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/artworks/main_image/items/6d/6d22d8ad26d14c67ab7da08f011c713f/death-of-beckett-2026-oil-and-oil-pastel-on-linen-160x195cm..jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/145/homepageandrew.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1388,h_620,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/artworks/main_image/items/6d/6d22d8ad26d14c67ab7da08f011c713f/death-of-beckett-2026-oil-and-oil-pastel-on-linen-160x195cm..jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1388,h_620,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/artworks/main_image/items/6d/6d22d8ad26d14c67ab7da08f011c713f/death-of-beckett-2026-oil-and-oil-pastel-on-linen-160x195cm..jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/145/homepageandrew.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "beerslondon",
+            "name": "Beers London",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://beerslondon.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1004532,
+          51.5190453
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "beerslondon-146-open-call-group-exhibition",
+          "name": "OPEN CALL GROUP EXHIBITION",
+          "title": "OPEN CALL GROUP EXHIBITION",
+          "artist": null,
+          "links": {
+            "profile": "https://beerslondon.com/exhibitions/146-open-call-group-exhibition/",
+            "card": "/exhibitions/146-open-call-group-exhibition/",
+            "www": "https://beerslondon.com/exhibitions/146-open-call-group-exhibition/"
+          },
+          "begin_date": "2026-08-20",
+          "end_date": "2026-08-29",
+          "type": "G",
+          "venue": {
+            "name": "Beers London",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1004532,
+              51.5190453
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/146/newuseable-logo.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/146/newuseable-logo.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/146/newuseable-logo.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/146/newuseable-logo.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/146/newuseable-logo.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "beerslondon",
+            "name": "Beers London",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://beerslondon.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1004532,
+          51.5190453
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "beerslondon-142-matthew-cole-cabin-fever",
+          "name": "MATTHEW COLE: CABIN FEVER",
+          "title": "MATTHEW COLE: CABIN FEVER",
+          "artist": "MATTHEW COLE",
+          "links": {
+            "profile": "https://beerslondon.com/exhibitions/142-matthew-cole-cabin-fever/",
+            "card": "/exhibitions/142-matthew-cole-cabin-fever/",
+            "www": "https://beerslondon.com/exhibitions/142-matthew-cole-cabin-fever/"
+          },
+          "begin_date": "2026-05-28",
+          "end_date": "2026-06-27",
+          "type": "S",
+          "venue": {
+            "name": "Beers London",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1004532,
+              51.5190453
+            ]
+          },
+          "preview_url": "https://beerslondon.com/custom_images/1200x630c/usr/images/publications/main_image/75/insta-size.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/142/_dsc1326-2.jpg",
+          "images": [
+            {
+              "image_url": "https://beerslondon.com/custom_images/1200x630c/usr/images/publications/main_image/75/insta-size.jpeg",
+              "preview_url": "https://beerslondon.com/custom_images/1200x630c/usr/images/publications/main_image/75/insta-size.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/142/_dsc1326-2.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "beerslondon",
+            "name": "Beers London",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://beerslondon.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1004532,
+          51.5190453
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "beerslondon-141-alice-herbst-the-whispering-game",
+          "name": "ALICE HERBST: THE WHISPERING GAME",
+          "title": "ALICE HERBST: THE WHISPERING GAME",
+          "artist": "ALICE HERBST",
+          "links": {
+            "profile": "https://beerslondon.com/exhibitions/141-alice-herbst-the-whispering-game/",
+            "card": "/exhibitions/141-alice-herbst-the-whispering-game/",
+            "www": "https://beerslondon.com/exhibitions/141-alice-herbst-the-whispering-game/"
+          },
+          "begin_date": "2026-04-16",
+          "end_date": "2026-05-23",
+          "type": "S",
+          "venue": {
+            "name": "Beers London",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -0.1004532,
+              51.5190453
+            ]
+          },
+          "preview_url": "https://beerslondon.com/custom_images/1200x630c/usr/images/publications/main_image/74/insta-size.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/141/_dsc2329.jpg",
+          "images": [
+            {
+              "image_url": "https://beerslondon.com/custom_images/1200x630c/usr/images/publications/main_image/74/insta-size.jpeg",
+              "preview_url": "https://beerslondon.com/custom_images/1200x630c/usr/images/publications/main_image/74/insta-size.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1666/usr/images/exhibitions/main_image_override/141/_dsc2329.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "beerslondon",
+            "name": "Beers London",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://beerslondon.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560143,
+          48.861533
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "mariangoodman-630-matt-saunders-on-an-overgrown-path",
+          "name": "Matt Saunders: On an Overgrown Path",
+          "title": "Matt Saunders: On an Overgrown Path",
+          "artist": "Matt Saunders",
+          "links": {
+            "profile": "https://www.mariangoodman.com/exhibitions/630-matt-saunders-on-an-overgrown-path/",
+            "card": "/exhibitions/630-matt-saunders-on-an-overgrown-path/",
+            "www": "https://www.mariangoodman.com/exhibitions/630-matt-saunders-on-an-overgrown-path/"
+          },
+          "begin_date": "2026-06-25",
+          "end_date": "2026-08-07",
+          "type": "S",
+          "venue": {
+            "name": "Marian Goodman",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              2.3560143,
+              48.861533
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/9f/9f3c06a2891746ce9483f767c00ebaf8/33053saunders_pleinair2_ms26140_113x130cm.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/f5/f51b4cdc73364f5f878988ec4dea55b6/133378332904f44ecb24b8055da6f169.png",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/9f/9f3c06a2891746ce9483f767c00ebaf8/33053saunders_pleinair2_ms26140_113x130cm.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/9f/9f3c06a2891746ce9483f767c00ebaf8/33053saunders_pleinair2_ms26140_113x130cm.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/f5/f51b4cdc73364f5f878988ec4dea55b6/133378332904f44ecb24b8055da6f169.png",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "mariangoodman",
+            "name": "Marian Goodman Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.mariangoodman.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560143,
+          48.861533
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "mariangoodman-631-daniel-joseph-martinez-states-of-being",
+          "name": "Daniel Joseph Martinez: States of Being",
+          "title": "Daniel Joseph Martinez: States of Being",
+          "artist": "Daniel Joseph Martinez",
+          "links": {
+            "profile": "https://www.mariangoodman.com/exhibitions/631-daniel-joseph-martinez-states-of-being/",
+            "card": "/exhibitions/631-daniel-joseph-martinez-states-of-being/",
+            "www": "https://www.mariangoodman.com/exhibitions/631-daniel-joseph-martinez-states-of-being/"
+          },
+          "begin_date": "2026-06-25",
+          "end_date": "2026-08-07",
+          "type": "S",
+          "venue": {
+            "name": "Marian Goodman",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              2.3560143,
+              48.861533
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/f5/f51b4cdc73364f5f878988ec4dea55b6/133378332904f44ecb24b8055da6f169.png",
+          "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/ac/ac17c4dda8ec4dc597fdb2d003072de7/8534-image.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/f5/f51b4cdc73364f5f878988ec4dea55b6/133378332904f44ecb24b8055da6f169.png",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/f5/f51b4cdc73364f5f878988ec4dea55b6/133378332904f44ecb24b8055da6f169.png",
+              "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/ac/ac17c4dda8ec4dc597fdb2d003072de7/8534-image.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "mariangoodman",
+            "name": "Marian Goodman Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.mariangoodman.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560143,
+          48.861533
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "mariangoodman-632-annette-messager-histoires-des-oreillers-in-focus-presentation",
+          "name": "Annette Messager: Histoires des oreillers: In Focus Presentation",
+          "title": "Annette Messager: Histoires des oreillers: In Focus Presentation",
+          "artist": "Annette Messager",
+          "links": {
+            "profile": "https://www.mariangoodman.com/exhibitions/632-annette-messager-histoires-des-oreillers-in-focus-presentation/",
+            "card": "/exhibitions/632-annette-messager-histoires-des-oreillers-in-focus-presentation/",
+            "www": "https://www.mariangoodman.com/exhibitions/632-annette-messager-histoires-des-oreillers-in-focus-presentation/"
+          },
+          "begin_date": "2026-07-03",
+          "end_date": "2026-09-26",
+          "type": "S",
+          "venue": {
+            "name": "Marian Goodman",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              2.3560143,
+              48.861533
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/ac/ac17c4dda8ec4dc597fdb2d003072de7/8534-image.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/c3/c3fe51fa733f4a528a679dbe16e6d660/exhibitionviews_ettorespallettidangraham_galeriemariangoodman2026_creditphotorebeccafanuele.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/ac/ac17c4dda8ec4dc597fdb2d003072de7/8534-image.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/ac/ac17c4dda8ec4dc597fdb2d003072de7/8534-image.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/c3/c3fe51fa733f4a528a679dbe16e6d660/exhibitionviews_ettorespallettidangraham_galeriemariangoodman2026_creditphotorebeccafanuele.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "mariangoodman",
+            "name": "Marian Goodman Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.mariangoodman.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560143,
+          48.861533
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "mariangoodman-627-ettore-spalletti-dan-graham",
+          "name": "Ettore Spalletti & Dan Graham",
+          "title": "Ettore Spalletti & Dan Graham",
+          "artist": null,
+          "links": {
+            "profile": "https://www.mariangoodman.com/exhibitions/627-ettore-spalletti-dan-graham/",
+            "card": "/exhibitions/627-ettore-spalletti-dan-graham/",
+            "www": "https://www.mariangoodman.com/exhibitions/627-ettore-spalletti-dan-graham/"
+          },
+          "begin_date": "2026-04-17",
+          "end_date": "2026-06-20",
+          "type": "S",
+          "venue": {
+            "name": "Marian Goodman",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              2.3560143,
+              48.861533
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/c3/c3fe51fa733f4a528a679dbe16e6d660/exhibitionviews_ettorespallettidangraham_galeriemariangoodman2026_creditphotorebeccafanuele.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/5a/5a095642b86f42d9975aca7e9c2be36c/31109mehretuphotocreditalexyudzon_1stfloorinstallation_10.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/c3/c3fe51fa733f4a528a679dbe16e6d660/exhibitionviews_ettorespallettidangraham_galeriemariangoodman2026_creditphotorebeccafanuele.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/c3/c3fe51fa733f4a528a679dbe16e6d660/exhibitionviews_ettorespallettidangraham_galeriemariangoodman2026_creditphotorebeccafanuele.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/5a/5a095642b86f42d9975aca7e9c2be36c/31109mehretuphotocreditalexyudzon_1stfloorinstallation_10.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "mariangoodman",
+            "name": "Marian Goodman Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.mariangoodman.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560143,
+          48.861533
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "mariangoodman-626-julie-mehretu-our-days-like-a-shadow-a-non-abiding-hauntology",
+          "name": "Julie Mehretu: Our Days, Like a Shadow (a non-abiding hauntology)",
+          "title": "Julie Mehretu: Our Days, Like a Shadow (a non-abiding hauntology)",
+          "artist": "Julie Mehretu",
+          "links": {
+            "profile": "https://www.mariangoodman.com/exhibitions/626-julie-mehretu-our-days-like-a-shadow-a-non-abiding-hauntology/",
+            "card": "/exhibitions/626-julie-mehretu-our-days-like-a-shadow-a-non-abiding-hauntology/",
+            "www": "https://www.mariangoodman.com/exhibitions/626-julie-mehretu-our-days-like-a-shadow-a-non-abiding-hauntology/"
+          },
+          "begin_date": "2026-04-14",
+          "end_date": "2026-06-06",
+          "type": "S",
+          "venue": {
+            "name": "Marian Goodman",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              2.3560143,
+              48.861533
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/5a/5a095642b86f42d9975aca7e9c2be36c/31109mehretuphotocreditalexyudzon_1stfloorinstallation_10.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/59/594d01c76192411598718cf1fd526b8c/20251031_johnjasperse_juliemehretu_instudio_whitneybrowne-116-2-.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/5a/5a095642b86f42d9975aca7e9c2be36c/31109mehretuphotocreditalexyudzon_1stfloorinstallation_10.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/5a/5a095642b86f42d9975aca7e9c2be36c/31109mehretuphotocreditalexyudzon_1stfloorinstallation_10.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/59/594d01c76192411598718cf1fd526b8c/20251031_johnjasperse_juliemehretu_instudio_whitneybrowne-116-2-.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "mariangoodman",
+            "name": "Marian Goodman Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.mariangoodman.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3560143,
+          48.861533
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "mariangoodman-628-john-jasperse-projects-wandering",
+          "name": "John Jasperse Projects: Wandering",
+          "title": "John Jasperse Projects: Wandering",
+          "artist": "John Jasperse Projects",
+          "links": {
+            "profile": "https://www.mariangoodman.com/exhibitions/628-john-jasperse-projects-wandering/",
+            "card": "/exhibitions/628-john-jasperse-projects-wandering/",
+            "www": "https://www.mariangoodman.com/exhibitions/628-john-jasperse-projects-wandering/"
+          },
+          "begin_date": null,
+          "end_date": null,
+          "type": "S",
+          "venue": {
+            "name": "Marian Goodman",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              2.3560143,
+              48.861533
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/59/594d01c76192411598718cf1fd526b8c/20251031_johnjasperse_juliemehretu_instudio_whitneybrowne-116-2-.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/9f/9f2451842ff14d98b1c07efc38a1b92f/31297_31239dean_mgglainstallation2026_photocreditfredriknilsen_20260218_mg_dean_c1_074.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/59/594d01c76192411598718cf1fd526b8c/20251031_johnjasperse_juliemehretu_instudio_whitneybrowne-116-2-.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/59/594d01c76192411598718cf1fd526b8c/20251031_johnjasperse_juliemehretu_instudio_whitneybrowne-116-2-.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/ws-mariangoodman/usr/images/exhibitions/main_image_override/items/9f/9f2451842ff14d98b1c07efc38a1b92f/31297_31239dean_mgglainstallation2026_photocreditfredriknilsen_20260218_mg_dean_c1_074.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "mariangoodman",
+            "name": "Marian Goodman Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.mariangoodman.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409823,
+          37.783072
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "jonathancarvermoore-25-tender-forms-a-group-exhibition-celebrating-artists-from-the-asian",
+          "name": "Tender Forms: A Group Exhibition Celebrating Artists from the Asian Diaspora with Maya Fuji, Nibha Akireddy, Shingo Yamazaki, and Justin Yoon.",
+          "title": "Tender Forms: A Group Exhibition Celebrating Artists from the Asian Diaspora with Maya Fuji, Nibha Akireddy, Shingo Yamazaki, and Justin Yoon.",
+          "artist": "Tender Forms",
+          "links": {
+            "profile": "https://www.jonathancarvermoore.com/exhibitions/25-tender-forms-a-group-exhibition-celebrating-artists-from-the-asian/",
+            "card": "/exhibitions/25-tender-forms-a-group-exhibition-celebrating-artists-from-the-asian/",
+            "www": "https://www.jonathancarvermoore.com/exhibitions/25-tender-forms-a-group-exhibition-celebrating-artists-from-the-asian/"
+          },
+          "begin_date": "2026-05-20",
+          "end_date": "2026-06-20",
+          "type": "G",
+          "venue": {
+            "name": "Jonathan Carver Moore",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -122.409823,
+              37.783072
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/exhibitions/images/exhibitions/25/jcm-may-group-039.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/exhibitions/images/exhibitions/25/jcm-may-group-039.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/exhibitions/images/exhibitions/25/jcm-may-group-039.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/exhibitions/images/exhibitions/25/jcm-may-group-039.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/exhibitions/images/exhibitions/25/jcm-may-group-039.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "jonathancarvermoore",
+            "name": "Jonathan Carver Moore",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.jonathancarvermoore.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409823,
+          37.783072
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "jonathancarvermoore-24-peer-pressure-a-solo-presentation-by-alvin-armstrong",
+          "name": "Peer Pressure: A Solo Presentation by Alvin Armstrong",
+          "title": "Peer Pressure: A Solo Presentation by Alvin Armstrong",
+          "artist": "Peer Pressure",
+          "links": {
+            "profile": "https://www.jonathancarvermoore.com/exhibitions/24-peer-pressure-a-solo-presentation-by-alvin-armstrong/",
+            "card": "/exhibitions/24-peer-pressure-a-solo-presentation-by-alvin-armstrong/",
+            "www": "https://www.jonathancarvermoore.com/exhibitions/24-peer-pressure-a-solo-presentation-by-alvin-armstrong/"
+          },
+          "begin_date": "2026-02-12",
+          "end_date": "2026-04-25",
+          "type": "S",
+          "venue": {
+            "name": "Jonathan Carver Moore",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -122.409823,
+              37.783072
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/24/peer-pressure_alvin-armstrong_feb-6.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/24/peer-pressure_alvin-armstrong_feb-6.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/24/peer-pressure_alvin-armstrong_feb-6.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/24/peer-pressure_alvin-armstrong_feb-6.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/24/peer-pressure_alvin-armstrong_feb-6.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Jonathan Carver Moore is thrilled to present a solo exhibition by the gallery’s fifth artist-in-residence Alvin Armstrong, opening February 12th."
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "jonathancarvermoore",
+            "name": "Jonathan Carver Moore",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.jonathancarvermoore.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409823,
+          37.783072
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "jonathancarvermoore-23-whats-left-never-left-a-solo-presentation-by-auudi-dorsey",
+          "name": "What’s Left, Never Left: A Solo Presentation by Auudi Dorsey",
+          "title": "What’s Left, Never Left: A Solo Presentation by Auudi Dorsey",
+          "artist": "What’s Left, Never Left",
+          "links": {
+            "profile": "https://www.jonathancarvermoore.com/exhibitions/23-whats-left-never-left-a-solo-presentation-by-auudi-dorsey/",
+            "card": "/exhibitions/23-whats-left-never-left-a-solo-presentation-by-auudi-dorsey/",
+            "www": "https://www.jonathancarvermoore.com/exhibitions/23-whats-left-never-left-a-solo-presentation-by-auudi-dorsey/"
+          },
+          "begin_date": "2025-10-09",
+          "end_date": "2026-01-31",
+          "type": "S",
+          "venue": {
+            "name": "Jonathan Carver Moore",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -122.409823,
+              37.783072
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/23/jcm-dorsey-008.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/23/jcm-dorsey-008.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/23/jcm-dorsey-008.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/23/jcm-dorsey-008.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/23/jcm-dorsey-008.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "jonathancarvermoore",
+            "name": "Jonathan Carver Moore",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.jonathancarvermoore.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409823,
+          37.783072
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "jonathancarvermoore-22-intermedio-a-solo-presentation-by-luis-felipe-chavez",
+          "name": "INTERMedio: A Solo Presentation by Luis Felipe Chávez",
+          "title": "INTERMedio: A Solo Presentation by Luis Felipe Chávez",
+          "artist": "INTERMedio",
+          "links": {
+            "profile": "https://www.jonathancarvermoore.com/exhibitions/22-intermedio-a-solo-presentation-by-luis-felipe-chavez/",
+            "card": "/exhibitions/22-intermedio-a-solo-presentation-by-luis-felipe-chavez/",
+            "www": "https://www.jonathancarvermoore.com/exhibitions/22-intermedio-a-solo-presentation-by-luis-felipe-chavez/"
+          },
+          "begin_date": "2025-08-28",
+          "end_date": "2025-10-04",
+          "type": "S",
+          "venue": {
+            "name": "Jonathan Carver Moore",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -122.409823,
+              37.783072
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/22/web-jcm-intermedio-010.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/22/web-jcm-intermedio-010.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/22/web-jcm-intermedio-010.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/22/web-jcm-intermedio-010.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/22/web-jcm-intermedio-010.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "jonathancarvermoore",
+            "name": "Jonathan Carver Moore",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.jonathancarvermoore.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409823,
+          37.783072
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "jonathancarvermoore-21-to-be-seen-a-group-exhibition",
+          "name": "To Be Seen: A Group Exhibition",
+          "title": "To Be Seen: A Group Exhibition",
+          "artist": "To Be Seen",
+          "links": {
+            "profile": "https://www.jonathancarvermoore.com/exhibitions/21-to-be-seen-a-group-exhibition/",
+            "card": "/exhibitions/21-to-be-seen-a-group-exhibition/",
+            "www": "https://www.jonathancarvermoore.com/exhibitions/21-to-be-seen-a-group-exhibition/"
+          },
+          "begin_date": "2025-06-06",
+          "end_date": "2025-08-16",
+          "type": "G",
+          "venue": {
+            "name": "Jonathan Carver Moore",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -122.409823,
+              37.783072
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/21/jcm-2-b-seen-044-3662.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/21/jcm-2-b-seen-044-3662.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/21/jcm-2-b-seen-044-3662.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/21/jcm-2-b-seen-044-3662.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/21/jcm-2-b-seen-044-3662.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Jonathan Carver Moore is pleased to present To Been Seen, a group exhibition with all Black queer artists opening the month of Pride."
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "jonathancarvermoore",
+            "name": "Jonathan Carver Moore",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.jonathancarvermoore.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409823,
+          37.783072
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "jonathancarvermoore-20-latitude-unknown-a-solo-presentation-by-yunfei-ren",
+          "name": "Latitude Unknown: A Solo Presentation by Yunfei Ren",
+          "title": "Latitude Unknown: A Solo Presentation by Yunfei Ren",
+          "artist": "Latitude Unknown",
+          "links": {
+            "profile": "https://www.jonathancarvermoore.com/exhibitions/20-latitude-unknown-a-solo-presentation-by-yunfei-ren/",
+            "card": "/exhibitions/20-latitude-unknown-a-solo-presentation-by-yunfei-ren/",
+            "www": "https://www.jonathancarvermoore.com/exhibitions/20-latitude-unknown-a-solo-presentation-by-yunfei-ren/"
+          },
+          "begin_date": "2025-04-18",
+          "end_date": "2025-05-31",
+          "type": "S",
+          "venue": {
+            "name": "Jonathan Carver Moore",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -122.409823,
+              37.783072
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/20/web-lattitude-unknown-4236.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/20/web-lattitude-unknown-4236.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/20/web-lattitude-unknown-4236.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/20/web-lattitude-unknown-4236.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1153/usr/images/exhibitions/main_image_override/20/web-lattitude-unknown-4236.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "jonathancarvermoore",
+            "name": "Jonathan Carver Moore",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.jonathancarvermoore.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6693476,
+          41.8902078
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "marianeibrahim-117-once-upon-a-field-group-exhibition",
+          "name": "Once Upon a Field: Group Exhibition",
+          "title": "Once Upon a Field: Group Exhibition",
+          "artist": "Once Upon a Field",
+          "links": {
+            "profile": "https://marianeibrahim.com/exhibitions/117-once-upon-a-field-group-exhibition/",
+            "card": "/exhibitions/117-once-upon-a-field-group-exhibition/",
+            "www": "https://marianeibrahim.com/exhibitions/117-once-upon-a-field-group-exhibition/"
+          },
+          "begin_date": "2026-05-30",
+          "end_date": "2026-08-15",
+          "type": "G",
+          "venue": {
+            "name": "Mariane Ibrahim Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -87.6693476,
+              41.8902078
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/117/detail-01.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/117/detail-01.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/117/detail-01.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/117/detail-01.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/117/detail-01.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "marianeibrahim",
+            "name": "Mariane Ibrahim",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://marianeibrahim.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6693476,
+          41.8902078
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "marianeibrahim-120-leasho-johnson-i-am-a-place-as-much-as-i",
+          "name": "Leasho Johnson: I am a place as much as I am a flavour",
+          "title": "Leasho Johnson: I am a place as much as I am a flavour",
+          "artist": "Leasho Johnson",
+          "links": {
+            "profile": "https://marianeibrahim.com/exhibitions/120-leasho-johnson-i-am-a-place-as-much-as-i/",
+            "card": "/exhibitions/120-leasho-johnson-i-am-a-place-as-much-as-i/",
+            "www": "https://marianeibrahim.com/exhibitions/120-leasho-johnson-i-am-a-place-as-much-as-i/"
+          },
+          "begin_date": "2026-06-06",
+          "end_date": "2026-07-25",
+          "type": "S",
+          "venue": {
+            "name": "Mariane Ibrahim Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -87.6693476,
+              41.8902078
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/120/lj-034-image.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/120/lj-034-image.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/120/lj-034-image.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/120/lj-034-image.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/120/lj-034-image.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "marianeibrahim",
+            "name": "Mariane Ibrahim",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://marianeibrahim.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6693476,
+          41.8902078
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "marianeibrahim-121-jennifer-rochlin-the-horizon-keeps-moving",
+          "name": "Jennifer Rochlin: The Horizon Keeps Moving",
+          "title": "Jennifer Rochlin: The Horizon Keeps Moving",
+          "artist": "Jennifer Rochlin",
+          "links": {
+            "profile": "https://marianeibrahim.com/exhibitions/121-jennifer-rochlin-the-horizon-keeps-moving/",
+            "card": "/exhibitions/121-jennifer-rochlin-the-horizon-keeps-moving/",
+            "www": "https://marianeibrahim.com/exhibitions/121-jennifer-rochlin-the-horizon-keeps-moving/"
+          },
+          "begin_date": "2026-06-06",
+          "end_date": "2026-07-18",
+          "type": "S",
+          "venue": {
+            "name": "Mariane Ibrahim Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -87.6693476,
+              41.8902078
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/121/jennifer-rochlin-spring-in-chicago-with-georgia-o-keefe-clouds-2026.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/121/jennifer-rochlin-spring-in-chicago-with-georgia-o-keefe-clouds-2026.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/121/jennifer-rochlin-spring-in-chicago-with-georgia-o-keefe-clouds-2026.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/121/jennifer-rochlin-spring-in-chicago-with-georgia-o-keefe-clouds-2026.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-marianeibrahimgallery/usr/images/exhibitions/main_image_override/121/jennifer-rochlin-spring-in-chicago-with-georgia-o-keefe-clouds-2026.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "marianeibrahim",
+            "name": "Mariane Ibrahim",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://marianeibrahim.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00514472407306,
+          40.71840293722373
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "charlesmoffett-108-izzy-barber-clay-pigeons",
+          "name": "Izzy Barber: Clay Pigeons",
+          "title": "Izzy Barber: Clay Pigeons",
+          "artist": "Izzy Barber",
+          "links": {
+            "profile": "https://charlesmoffett.com/exhibitions/108-izzy-barber-clay-pigeons/",
+            "card": "/exhibitions/108-izzy-barber-clay-pigeons/",
+            "www": "https://charlesmoffett.com/exhibitions/108-izzy-barber-clay-pigeons/"
+          },
+          "begin_date": "2026-06-26",
+          "end_date": "2026-07-31",
+          "type": "S",
+          "venue": {
+            "name": "Charles Moffett",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -74.00514472407306,
+              40.71840293722373
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/108/2025barber33.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/108/2025barber33.jpeg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/108/2025barber33.jpeg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/108/2025barber33.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/108/2025barber33.jpeg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "charlesmoffett",
+            "name": "Charles Moffett",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://charlesmoffett.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00514472407306,
+          40.71840293722373
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "charlesmoffett-106-c-naan-hamburger-after-art",
+          "name": "C'naan Hamburger: after Art",
+          "title": "C'naan Hamburger: after Art",
+          "artist": "C'naan Hamburger",
+          "links": {
+            "profile": "https://charlesmoffett.com/exhibitions/106-c-naan-hamburger-after-art/",
+            "card": "/exhibitions/106-c-naan-hamburger-after-art/",
+            "www": "https://charlesmoffett.com/exhibitions/106-c-naan-hamburger-after-art/"
+          },
+          "begin_date": "2026-05-08",
+          "end_date": "2026-06-20",
+          "type": "S",
+          "venue": {
+            "name": "Charles Moffett",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -74.00514472407306,
+              40.71840293722373
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/106/2026hamburger08.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/106/2026hamburger08.jpeg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/106/2026hamburger08.jpeg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/106/2026hamburger08.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/106/2026hamburger08.jpeg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "charlesmoffett",
+            "name": "Charles Moffett",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://charlesmoffett.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00514472407306,
+          40.71840293722373
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "charlesmoffett-105-kim-dacres-lost-on-a-two-way-street",
+          "name": "Kim Dacres: Lost on a Two Way Street",
+          "title": "Kim Dacres: Lost on a Two Way Street",
+          "artist": "Kim Dacres",
+          "links": {
+            "profile": "https://charlesmoffett.com/exhibitions/105-kim-dacres-lost-on-a-two-way-street/",
+            "card": "/exhibitions/105-kim-dacres-lost-on-a-two-way-street/",
+            "www": "https://charlesmoffett.com/exhibitions/105-kim-dacres-lost-on-a-two-way-street/"
+          },
+          "begin_date": "2026-05-07",
+          "end_date": "2026-06-20",
+          "type": "S",
+          "venue": {
+            "name": "Charles Moffett",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -74.00514472407306,
+              40.71840293722373
+            ]
+          },
+          "preview_url": "https://charlesmoffett.com/custom_images/1200x630c/usr/images/press/main_image/items/bc/bc28c9bbb43b41fd9285f5ee1ca4163a/kim-dacres-lost-on-a-two-way-street-2026-_installation-view-17_max-yawney_1.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/105/kim-dacres_the-day-you-are-me-2026-_side_max-yawney_1.jpg",
+          "images": [
+            {
+              "image_url": "https://charlesmoffett.com/custom_images/1200x630c/usr/images/press/main_image/items/bc/bc28c9bbb43b41fd9285f5ee1ca4163a/kim-dacres-lost-on-a-two-way-street-2026-_installation-view-17_max-yawney_1.jpg",
+              "preview_url": "https://charlesmoffett.com/custom_images/1200x630c/usr/images/press/main_image/items/bc/bc28c9bbb43b41fd9285f5ee1ca4163a/kim-dacres-lost-on-a-two-way-street-2026-_installation-view-17_max-yawney_1.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-charlesmoffett2/usr/images/exhibitions/main_image_override/105/kim-dacres_the-day-you-are-me-2026-_side_max-yawney_1.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "charlesmoffett",
+            "name": "Charles Moffett",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://charlesmoffett.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00514472407306,
+          40.71840293722373
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "charlesmoffett-104-miguel-angel-payano-jr",
+          "name": "Miguel Ángel Payano Jr.: Palate Pivots",
+          "title": "Miguel Ángel Payano Jr.: Palate Pivots",
+          "artist": "Miguel Ángel Payano Jr.",
+          "links": {
+            "profile": "https://charlesmoffett.com/exhibitions/104-miguel-angel-payano-jr/",
+            "card": "/exhibitions/104-miguel-angel-payano-jr/",
+            "www": "https://charlesmoffett.com/exhibitions/104-miguel-angel-payano-jr/"
+          },
+          "begin_date": "2026-03-25",
+          "end_date": "2026-04-25",
+          "type": "S",
+          "venue": {
+            "name": "Charles Moffett",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -74.00514472407306,
+              40.71840293722373
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/a3a26c4ba5736a1355c2749b8a7e2f49j/charlesmoffett-miguel-ngel-payano-jr.-autumn-corner-2026.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/a3a26c4ba5736a1355c2749b8a7e2f49j/charlesmoffett-miguel-ngel-payano-jr.-autumn-corner-2026.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/a3a26c4ba5736a1355c2749b8a7e2f49j/charlesmoffett-miguel-ngel-payano-jr.-autumn-corner-2026.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/a3a26c4ba5736a1355c2749b8a7e2f49j/charlesmoffett-miguel-ngel-payano-jr.-autumn-corner-2026.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/a3a26c4ba5736a1355c2749b8a7e2f49j/charlesmoffett-miguel-ngel-payano-jr.-autumn-corner-2026.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "charlesmoffett",
+            "name": "Charles Moffett",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://charlesmoffett.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00514472407306,
+          40.71840293722373
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "charlesmoffett-103-andie-dinkin-in-the-spirit-world",
+          "name": "Andie Dinkin: In the Spirit World",
+          "title": "Andie Dinkin: In the Spirit World",
+          "artist": "Andie Dinkin",
+          "links": {
+            "profile": "https://charlesmoffett.com/exhibitions/103-andie-dinkin-in-the-spirit-world/",
+            "card": "/exhibitions/103-andie-dinkin-in-the-spirit-world/",
+            "www": "https://charlesmoffett.com/exhibitions/103-andie-dinkin-in-the-spirit-world/"
+          },
+          "begin_date": "2026-03-20",
+          "end_date": "2026-04-25",
+          "type": "S",
+          "venue": {
+            "name": "Charles Moffett",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -74.00514472407306,
+              40.71840293722373
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/8e669ea42da9c1861015b4047f88592dj/charlesmoffett-andie-dinkin-a-long-feast-2026.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/8e669ea42da9c1861015b4047f88592dj/charlesmoffett-andie-dinkin-a-long-feast-2026.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/8e669ea42da9c1861015b4047f88592dj/charlesmoffett-andie-dinkin-a-long-feast-2026.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/8e669ea42da9c1861015b4047f88592dj/charlesmoffett-andie-dinkin-a-long-feast-2026.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/8e669ea42da9c1861015b4047f88592dj/charlesmoffett-andie-dinkin-a-long-feast-2026.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "charlesmoffett",
+            "name": "Charles Moffett",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://charlesmoffett.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00514472407306,
+          40.71840293722373
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "charlesmoffett-102-julia-jo-beckon",
+          "name": "Julia Jo: Beckon",
+          "title": "Julia Jo: Beckon",
+          "artist": "Julia Jo",
+          "links": {
+            "profile": "https://charlesmoffett.com/exhibitions/102-julia-jo-beckon/",
+            "card": "/exhibitions/102-julia-jo-beckon/",
+            "www": "https://charlesmoffett.com/exhibitions/102-julia-jo-beckon/"
+          },
+          "begin_date": "2026-02-06",
+          "end_date": "2026-03-14",
+          "type": "S",
+          "venue": {
+            "name": "Charles Moffett",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -74.00514472407306,
+              40.71840293722373
+            ]
+          },
+          "preview_url": "https://charlesmoffett.com/custom_images/1200x630c/usr/images/press/main_image/items/12/12637be35b014bf4937778776cb50862/julia-jo-beckon-2026-_installation-view-3_tom-barrett_1.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/d7669ad23d494bb5e9c5555774e63c8ej/charlesmoffett-julia-jo-milk-honey-and-velvet-2026.jpg",
+          "images": [
+            {
+              "image_url": "https://charlesmoffett.com/custom_images/1200x630c/usr/images/press/main_image/items/12/12637be35b014bf4937778776cb50862/julia-jo-beckon-2026-_installation-view-3_tom-barrett_1.jpg",
+              "preview_url": "https://charlesmoffett.com/custom_images/1200x630c/usr/images/press/main_image/items/12/12637be35b014bf4937778776cb50862/julia-jo-beckon-2026-_installation-view-3_tom-barrett_1.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/charlesmoffett/images/view/d7669ad23d494bb5e9c5555774e63c8ej/charlesmoffett-julia-jo-milk-honey-and-velvet-2026.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "charlesmoffett",
+            "name": "Charles Moffett",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://charlesmoffett.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365821,
+          52.5016868
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "estherschipper-1591-forking-paths-chiu-chien-jen-roberto-de-pinto-hsu-chia-wei",
+          "name": "Forking Paths 邱建仁 Chiu Chien-Jen, Roberto De Pinto, 許家維 Hsu Chia-Wei, Beatrice Marchi, Valerio Nicolai, Federico Tosi, 蔡依庭 Tsai Yi-Ting and 曾建穎 Tseng Chien-Ying",
+          "title": "Forking Paths 邱建仁 Chiu Chien-Jen, Roberto De Pinto, 許家維 Hsu Chia-Wei, Beatrice Marchi, Valerio Nicolai, Federico Tosi, 蔡依庭 Tsai Yi-Ting and 曾建穎 Tseng Chien-Ying",
+          "artist": null,
+          "links": {
+            "profile": "https://www.estherschipper.com/exhibitions/1591-forking-paths-chiu-chien-jen-roberto-de-pinto-hsu-chia-wei/",
+            "card": "/exhibitions/1591-forking-paths-chiu-chien-jen-roberto-de-pinto-hsu-chia-wei/",
+            "www": "https://www.estherschipper.com/exhibitions/1591-forking-paths-chiu-chien-jen-roberto-de-pinto-hsu-chia-wei/"
+          },
+          "begin_date": "2026-07-03",
+          "end_date": "2026-08-26",
+          "type": "G",
+          "venue": {
+            "name": "Esther Schipper Esther Schipper, Berlin",
+            "address": "",
+            "zip": "",
+            "city": null,
+            "geolocation": [
+              13.365821,
+              52.5016868
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/ac/acff1a1acaba4f77bf49bdd49a30bb15/es_views_03.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/71/71219ab1d93049c6967abdc06a8b482e/meb-ess_10.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/ac/acff1a1acaba4f77bf49bdd49a30bb15/es_views_03.jpeg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/ac/acff1a1acaba4f77bf49bdd49a30bb15/es_views_03.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/71/71219ab1d93049c6967abdc06a8b482e/meb-ess_10.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "estherschipper",
+            "name": "Esther Schipper",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.estherschipper.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365821,
+          52.5016868
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "estherschipper-1565-cellular-memory-merikokeb-berhanu",
+          "name": "Cellular Memory Merikokeb Berhanu",
+          "title": "Cellular Memory Merikokeb Berhanu",
+          "artist": null,
+          "links": {
+            "profile": "https://www.estherschipper.com/exhibitions/1565-cellular-memory-merikokeb-berhanu/",
+            "card": "/exhibitions/1565-cellular-memory-merikokeb-berhanu/",
+            "www": "https://www.estherschipper.com/exhibitions/1565-cellular-memory-merikokeb-berhanu/"
+          },
+          "begin_date": "2026-06-09",
+          "end_date": "2026-08-01",
+          "type": "S",
+          "venue": {
+            "name": "Esther Schipper Esther Schipper, Seoul",
+            "address": "",
+            "zip": "",
+            "city": null,
+            "geolocation": [
+              13.365821,
+              52.5016868
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/71/71219ab1d93049c6967abdc06a8b482e/meb-ess_10.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/db/db9d57c247df4de08ab44af3f4c9dde1/es_15.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/71/71219ab1d93049c6967abdc06a8b482e/meb-ess_10.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/71/71219ab1d93049c6967abdc06a8b482e/meb-ess_10.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/db/db9d57c247df4de08ab44af3f4c9dde1/es_15.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "estherschipper",
+            "name": "Esther Schipper",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.estherschipper.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365821,
+          52.5016868
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "estherschipper-1564-pays-reve-pays-reel-a-proposal-by-lucien-with-merikokeb-berhanu-sanford-biggers-julien-creuzet-leslie",
+          "name": "Pays rêvé, pays réel: A proposal by Lucien Terras — In dialogue with works from the Seroussi Collection with Merikokeb Berhanu, Sanford Biggers, Julien Creuzet, Leslie Hewitt, Leslie Hewitt in collaboration with Jamal Cyrus, Jason Moran, Alex Gardner, Simone Leigh, Arjan Martins, Roberto Matta, Moké, Thomias Radin",
+          "title": "Pays rêvé, pays réel: A proposal by Lucien Terras — In dialogue with works from the Seroussi Collection with Merikokeb Berhanu, Sanford Biggers, Julien Creuzet, Leslie Hewitt, Leslie Hewitt in collaboration with Jamal Cyrus, Jason Moran, Alex Gardner, Simone Leigh, Arjan Martins, Roberto Matta, Moké, Thomias Radin",
+          "artist": "Pays rêvé, pays réel",
+          "links": {
+            "profile": "https://www.estherschipper.com/exhibitions/1564-pays-reve-pays-reel-a-proposal-by-lucien-with-merikokeb-berhanu-sanford-biggers-julien-creuzet-leslie/",
+            "card": "/exhibitions/1564-pays-reve-pays-reel-a-proposal-by-lucien-with-merikokeb-berhanu-sanford-biggers-julien-creuzet-leslie/",
+            "www": "https://www.estherschipper.com/exhibitions/1564-pays-reve-pays-reel-a-proposal-by-lucien-with-merikokeb-berhanu-sanford-biggers-julien-creuzet-leslie/"
+          },
+          "begin_date": "2026-06-04",
+          "end_date": "2026-08-01",
+          "type": "G",
+          "venue": {
+            "name": "Esther Schipper EXTERNAL EXHIBITIONS",
+            "address": "",
+            "zip": "",
+            "city": null,
+            "geolocation": [
+              13.365821,
+              52.5016868
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/db/db9d57c247df4de08ab44af3f4c9dde1/es_15.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/90/90d77885811349abb125b04fa5fa50a8/es_views_13.jpeg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/db/db9d57c247df4de08ab44af3f4c9dde1/es_15.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/db/db9d57c247df4de08ab44af3f4c9dde1/es_15.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/90/90d77885811349abb125b04fa5fa50a8/es_views_13.jpeg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "estherschipper",
+            "name": "Esther Schipper",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.estherschipper.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365821,
+          52.5016868
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "estherschipper-1558-easy-assembly-tauba-auerbach",
+          "name": "Easy Assembly Tauba Auerbach",
+          "title": "Easy Assembly Tauba Auerbach",
+          "artist": null,
+          "links": {
+            "profile": "https://www.estherschipper.com/exhibitions/1558-easy-assembly-tauba-auerbach/",
+            "card": "/exhibitions/1558-easy-assembly-tauba-auerbach/",
+            "www": "https://www.estherschipper.com/exhibitions/1558-easy-assembly-tauba-auerbach/"
+          },
+          "begin_date": "2026-05-01",
+          "end_date": "2026-06-20",
+          "type": "S",
+          "venue": {
+            "name": "Esther Schipper Esther Schipper, Berlin",
+            "address": "",
+            "zip": "",
+            "city": null,
+            "geolocation": [
+              13.365821,
+              52.5016868
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/90/90d77885811349abb125b04fa5fa50a8/es_views_13.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/a4/a4e3c6f3cae14542bf55a05e39bda464/es_niche_01.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/90/90d77885811349abb125b04fa5fa50a8/es_views_13.jpeg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/90/90d77885811349abb125b04fa5fa50a8/es_views_13.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/a4/a4e3c6f3cae14542bf55a05e39bda464/es_niche_01.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "estherschipper",
+            "name": "Esther Schipper",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.estherschipper.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365821,
+          52.5016868
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "estherschipper-1559-hyperarousal-celeste-rapone",
+          "name": "Hyperarousal Celeste Rapone",
+          "title": "Hyperarousal Celeste Rapone",
+          "artist": null,
+          "links": {
+            "profile": "https://www.estherschipper.com/exhibitions/1559-hyperarousal-celeste-rapone/",
+            "card": "/exhibitions/1559-hyperarousal-celeste-rapone/",
+            "www": "https://www.estherschipper.com/exhibitions/1559-hyperarousal-celeste-rapone/"
+          },
+          "begin_date": "2026-05-01",
+          "end_date": "2026-06-20",
+          "type": "S",
+          "venue": {
+            "name": "Esther Schipper Esther Schipper, Berlin",
+            "address": "",
+            "zip": "",
+            "city": null,
+            "geolocation": [
+              13.365821,
+              52.5016868
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/a4/a4e3c6f3cae14542bf55a05e39bda464/es_niche_01.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/19/197f381035f641fdbc6c4003bc60df24/es_stp_10.jpeg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/a4/a4e3c6f3cae14542bf55a05e39bda464/es_niche_01.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/a4/a4e3c6f3cae14542bf55a05e39bda464/es_niche_01.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/19/197f381035f641fdbc6c4003bc60df24/es_stp_10.jpeg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "estherschipper",
+            "name": "Esther Schipper",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.estherschipper.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365821,
+          52.5016868
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "estherschipper-1556-sooner-or-later-you-will-call-my-name-sojourner-truth-parsons",
+          "name": "Sooner or later you will call my name Sojourner Truth Parsons",
+          "title": "Sooner or later you will call my name Sojourner Truth Parsons",
+          "artist": null,
+          "links": {
+            "profile": "https://www.estherschipper.com/exhibitions/1556-sooner-or-later-you-will-call-my-name-sojourner-truth-parsons/",
+            "card": "/exhibitions/1556-sooner-or-later-you-will-call-my-name-sojourner-truth-parsons/",
+            "www": "https://www.estherschipper.com/exhibitions/1556-sooner-or-later-you-will-call-my-name-sojourner-truth-parsons/"
+          },
+          "begin_date": "2026-04-09",
+          "end_date": "2026-05-30",
+          "type": "S",
+          "venue": {
+            "name": "Esther Schipper Esther Schipper, Paris",
+            "address": "",
+            "zip": "",
+            "city": null,
+            "geolocation": [
+              13.365821,
+              52.5016868
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/19/197f381035f641fdbc6c4003bc60df24/es_stp_10.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/f7/f7880291f7754a66bcc66f25d96c7c71/esther-schipper_march-avery_reshoot_002.jpeg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/19/197f381035f641fdbc6c4003bc60df24/es_stp_10.jpeg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/main_image_override/items/19/197f381035f641fdbc6c4003bc60df24/es_stp_10.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_1000,h_1000,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/exhibitions/hero_image/items/f7/f7880291f7754a66bcc66f25d96c7c71/esther-schipper_march-avery_reshoot_002.jpeg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "estherschipper",
+            "name": "Esther Schipper",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.estherschipper.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9082856,
+          33.6274822
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "kennedycontemporary-39-boundless-palette-three-voices-leslie-allen-terri-froelich-sharon-paster",
+          "name": "Boundless Palette: Three Voices: Leslie Allen, Terri Froelich, Sharon Paster",
+          "title": "Boundless Palette: Three Voices: Leslie Allen, Terri Froelich, Sharon Paster",
+          "artist": "Boundless Palette",
+          "links": {
+            "profile": "https://kennedycontemporary.com/exhibitions/39-boundless-palette-three-voices-leslie-allen-terri-froelich-sharon-paster/",
+            "card": "/exhibitions/39-boundless-palette-three-voices-leslie-allen-terri-froelich-sharon-paster/",
+            "www": "https://kennedycontemporary.com/exhibitions/39-boundless-palette-three-voices-leslie-allen-terri-froelich-sharon-paster/"
+          },
+          "begin_date": "2026-07-06",
+          "end_date": "2026-08-15",
+          "type": "S",
+          "venue": {
+            "name": "Kennedy Contemporary",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -117.9082856,
+              33.6274822
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/39/push-pull-60-x-60.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/39/push-pull-60-x-60.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/39/push-pull-60-x-60.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/39/push-pull-60-x-60.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/39/push-pull-60-x-60.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "kennedycontemporary",
+            "name": "Kennedy Contemporary",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://kennedycontemporary.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9082856,
+          33.6274822
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "kennedycontemporary-38-shaped-by-light-patrick-deangelis-austin-fields-heather-zusman",
+          "name": "Shaped By Light: Patrick DeAngelis, Austin Fields, Heather Zusman",
+          "title": "Shaped By Light: Patrick DeAngelis, Austin Fields, Heather Zusman",
+          "artist": "Shaped By Light",
+          "links": {
+            "profile": "https://kennedycontemporary.com/exhibitions/38-shaped-by-light-patrick-deangelis-austin-fields-heather-zusman/",
+            "card": "/exhibitions/38-shaped-by-light-patrick-deangelis-austin-fields-heather-zusman/",
+            "www": "https://kennedycontemporary.com/exhibitions/38-shaped-by-light-patrick-deangelis-austin-fields-heather-zusman/"
+          },
+          "begin_date": "2026-04-27",
+          "end_date": "2026-05-29",
+          "type": "S",
+          "venue": {
+            "name": "Kennedy Contemporary",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -117.9082856,
+              33.6274822
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/38/img_7415.png",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/38/img_7415.png",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/38/img_7415.png",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/38/img_7415.png",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/38/img_7415.png",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "kennedycontemporary",
+            "name": "Kennedy Contemporary",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://kennedycontemporary.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9082856,
+          33.6274822
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "kennedycontemporary-37-where-forms-gather-solo-exhibition-with-elyse-katz",
+          "name": "Where Forms Gather: Solo Exhibition with Elyse Katz",
+          "title": "Where Forms Gather: Solo Exhibition with Elyse Katz",
+          "artist": "Where Forms Gather",
+          "links": {
+            "profile": "https://kennedycontemporary.com/exhibitions/37-where-forms-gather-solo-exhibition-with-elyse-katz/",
+            "card": "/exhibitions/37-where-forms-gather-solo-exhibition-with-elyse-katz/",
+            "www": "https://kennedycontemporary.com/exhibitions/37-where-forms-gather-solo-exhibition-with-elyse-katz/"
+          },
+          "begin_date": "2026-02-16",
+          "end_date": "2026-03-20",
+          "type": "S",
+          "venue": {
+            "name": "Kennedy Contemporary",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -117.9082856,
+              33.6274822
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/37/elyse-katz-original-3-.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/37/elyse-katz-original-3-.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/37/elyse-katz-original-3-.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/37/elyse-katz-original-3-.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/37/elyse-katz-original-3-.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "kennedycontemporary",
+            "name": "Kennedy Contemporary",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://kennedycontemporary.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9082856,
+          33.6274822
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "kennedycontemporary-36-embodied-figures-in-contemporary-art",
+          "name": "Embodied: Figures in Contemporary Art",
+          "title": "Embodied: Figures in Contemporary Art",
+          "artist": "Embodied",
+          "links": {
+            "profile": "https://kennedycontemporary.com/exhibitions/36-embodied-figures-in-contemporary-art/",
+            "card": "/exhibitions/36-embodied-figures-in-contemporary-art/",
+            "www": "https://kennedycontemporary.com/exhibitions/36-embodied-figures-in-contemporary-art/"
+          },
+          "begin_date": "2025-10-27",
+          "end_date": "2025-11-25",
+          "type": "S",
+          "venue": {
+            "name": "Kennedy Contemporary",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -117.9082856,
+              33.6274822
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/kennedycontemporary/images/view/9274d7413787b65cd90002316d4f50dd/kennedycontemporary-lisa-golightly-court-shadows-2020.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/kennedycontemporary/images/view/9274d7413787b65cd90002316d4f50dd/kennedycontemporary-lisa-golightly-court-shadows-2020.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/kennedycontemporary/images/view/9274d7413787b65cd90002316d4f50dd/kennedycontemporary-lisa-golightly-court-shadows-2020.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/kennedycontemporary/images/view/9274d7413787b65cd90002316d4f50dd/kennedycontemporary-lisa-golightly-court-shadows-2020.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/kennedycontemporary/images/view/9274d7413787b65cd90002316d4f50dd/kennedycontemporary-lisa-golightly-court-shadows-2020.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Embodied: Figures in Contemporary Art will be on view October 27 – November 25 , with an opening reception on Thursday, November 6, from 5–7 PM ."
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "kennedycontemporary",
+            "name": "Kennedy Contemporary",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://kennedycontemporary.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9082856,
+          33.6274822
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "kennedycontemporary-35-housework-solo-exhibition-with-randy-akers",
+          "name": "Housework: Solo Exhibition with Randy Akers",
+          "title": "Housework: Solo Exhibition with Randy Akers",
+          "artist": "Housework",
+          "links": {
+            "profile": "https://kennedycontemporary.com/exhibitions/35-housework-solo-exhibition-with-randy-akers/",
+            "card": "/exhibitions/35-housework-solo-exhibition-with-randy-akers/",
+            "www": "https://kennedycontemporary.com/exhibitions/35-housework-solo-exhibition-with-randy-akers/"
+          },
+          "begin_date": "2025-09-22",
+          "end_date": "2025-10-24",
+          "type": "S",
+          "venue": {
+            "name": "Kennedy Contemporary",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -117.9082856,
+              33.6274822
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/35/image-61.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/35/image-61.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/35/image-61.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/35/image-61.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/35/image-61.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Opening Reception - Thursday, September 25 from 5 to 7pm Randy Akers is a visual artist based on Skidaway Island, Georgia."
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "kennedycontemporary",
+            "name": "Kennedy Contemporary",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://kennedycontemporary.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.9082856,
+          33.6274822
+        ]
+      },
+      "properties": {
+        "exhibition": {
+          "id": "kennedycontemporary-34-nature-s-palette-landscapes-reimagined",
+          "name": "Nature's Palette: Landscapes Reimagined",
+          "title": "Nature's Palette: Landscapes Reimagined",
+          "artist": "Nature's Palette",
+          "links": {
+            "profile": "https://kennedycontemporary.com/exhibitions/34-nature-s-palette-landscapes-reimagined/",
+            "card": "/exhibitions/34-nature-s-palette-landscapes-reimagined/",
+            "www": "https://kennedycontemporary.com/exhibitions/34-nature-s-palette-landscapes-reimagined/"
+          },
+          "begin_date": "2025-08-18",
+          "end_date": "2025-09-19",
+          "type": "S",
+          "venue": {
+            "name": "Kennedy Contemporary",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": [
+              -117.9082856,
+              33.6274822
+            ]
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/34/screenshot-2025-08-04-at-13.36.44.png",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/34/screenshot-2025-08-04-at-13.36.44.png",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/34/screenshot-2025-08-04-at-13.36.44.png",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/34/screenshot-2025-08-04-at-13.36.44.png",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1356/usr/images/exhibitions/main_image_override/34/screenshot-2025-08-04-at-13.36.44.png",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "kennedycontemporary",
+            "name": "Kennedy Contemporary",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://kennedycontemporary.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "artchgallery-20-the-last-waltz-featuring-the-artch-gallery-all-stars",
+          "name": "The Last Waltz: Featuring the Artch Gallery All Stars",
+          "title": "The Last Waltz: Featuring the Artch Gallery All Stars",
+          "artist": "The Last Waltz",
+          "links": {
+            "profile": "https://www.artchgallery.com/exhibitions/20-the-last-waltz-featuring-the-artch-gallery-all-stars/",
+            "card": "/exhibitions/20-the-last-waltz-featuring-the-artch-gallery-all-stars/",
+            "www": "https://www.artchgallery.com/exhibitions/20-the-last-waltz-featuring-the-artch-gallery-all-stars/"
+          },
+          "begin_date": "2022-03-09",
+          "end_date": "2022-04-01",
+          "type": "S",
+          "venue": {
+            "name": "Artch Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/5aa3b64c067e9de2af3112db8ff396e8j/artchgallery-harold-schlotzhauer-coyote-at-twin-bridge-1986.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/5aa3b64c067e9de2af3112db8ff396e8j/artchgallery-harold-schlotzhauer-coyote-at-twin-bridge-1986.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/5aa3b64c067e9de2af3112db8ff396e8j/artchgallery-harold-schlotzhauer-coyote-at-twin-bridge-1986.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/5aa3b64c067e9de2af3112db8ff396e8j/artchgallery-harold-schlotzhauer-coyote-at-twin-bridge-1986.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/5aa3b64c067e9de2af3112db8ff396e8j/artchgallery-harold-schlotzhauer-coyote-at-twin-bridge-1986.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "artchgallery",
+            "name": "ARTCH Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.artchgallery.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "artchgallery-19-western-artworks-secondary-market-gems",
+          "name": "Western Artworks: Secondary Market Gems",
+          "title": "Western Artworks: Secondary Market Gems",
+          "artist": "Western Artworks",
+          "links": {
+            "profile": "https://www.artchgallery.com/exhibitions/19-western-artworks-secondary-market-gems/",
+            "card": "/exhibitions/19-western-artworks-secondary-market-gems/",
+            "www": "https://www.artchgallery.com/exhibitions/19-western-artworks-secondary-market-gems/"
+          },
+          "begin_date": "2021-12-09",
+          "end_date": "2022-01-14",
+          "type": "S",
+          "venue": {
+            "name": "Artch Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/exhibitions/images/exhibitions/19/img_2481.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/exhibitions/images/exhibitions/19/img_2481.jpeg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/exhibitions/images/exhibitions/19/img_2481.jpeg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/exhibitions/images/exhibitions/19/img_2481.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/exhibitions/images/exhibitions/19/img_2481.jpeg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "artchgallery",
+            "name": "ARTCH Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.artchgallery.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "artchgallery-18-tuk-vaughankraska-american-21st-century",
+          "name": "Tuk Vaughankraska: American 21st Century",
+          "title": "Tuk Vaughankraska: American 21st Century",
+          "artist": "Tuk Vaughankraska",
+          "links": {
+            "profile": "https://www.artchgallery.com/exhibitions/18-tuk-vaughankraska-american-21st-century/",
+            "card": "/exhibitions/18-tuk-vaughankraska-american-21st-century/",
+            "www": "https://www.artchgallery.com/exhibitions/18-tuk-vaughankraska-american-21st-century/"
+          },
+          "begin_date": "2021-11-18",
+          "end_date": "2022-01-18",
+          "type": "S",
+          "venue": {
+            "name": "Artch Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/0329001646315ede14a3fc0cdc2cf90bj/artchgallery-tuk-vaughankraska-gacked.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/0329001646315ede14a3fc0cdc2cf90bj/artchgallery-tuk-vaughankraska-gacked.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/0329001646315ede14a3fc0cdc2cf90bj/artchgallery-tuk-vaughankraska-gacked.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/0329001646315ede14a3fc0cdc2cf90bj/artchgallery-tuk-vaughankraska-gacked.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/0329001646315ede14a3fc0cdc2cf90bj/artchgallery-tuk-vaughankraska-gacked.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "artchgallery",
+            "name": "ARTCH Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.artchgallery.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "artchgallery-15-2021-year-end-sale-new-arrivals-and-important-consignments",
+          "name": "2021 Year End Sale: New Arrivals and Important Consignments",
+          "title": "2021 Year End Sale: New Arrivals and Important Consignments",
+          "artist": "2021 Year End Sale",
+          "links": {
+            "profile": "https://www.artchgallery.com/exhibitions/15-2021-year-end-sale-new-arrivals-and-important-consignments/",
+            "card": "/exhibitions/15-2021-year-end-sale-new-arrivals-and-important-consignments/",
+            "www": "https://www.artchgallery.com/exhibitions/15-2021-year-end-sale-new-arrivals-and-important-consignments/"
+          },
+          "begin_date": "2021-11-05",
+          "end_date": "2022-01-05",
+          "type": "S",
+          "venue": {
+            "name": "Artch Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/e4b0c80493d7469eff82eb9e4fe5e8b5p/artchgallery-russell-chatham-moonrise-over-the-roaring-fork-river-2004.png",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/e4b0c80493d7469eff82eb9e4fe5e8b5p/artchgallery-russell-chatham-moonrise-over-the-roaring-fork-river-2004.png",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/e4b0c80493d7469eff82eb9e4fe5e8b5p/artchgallery-russell-chatham-moonrise-over-the-roaring-fork-river-2004.png",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/e4b0c80493d7469eff82eb9e4fe5e8b5p/artchgallery-russell-chatham-moonrise-over-the-roaring-fork-river-2004.png",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/e4b0c80493d7469eff82eb9e4fe5e8b5p/artchgallery-russell-chatham-moonrise-over-the-roaring-fork-river-2004.png",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "artchgallery",
+            "name": "ARTCH Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.artchgallery.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "artchgallery-14-east-coast-artwork-chaucer-silverson-artwork-in-boston",
+          "name": "East Coast Artwork: Chaucer Silverson / Artwork in Boston",
+          "title": "East Coast Artwork: Chaucer Silverson / Artwork in Boston",
+          "artist": "East Coast Artwork",
+          "links": {
+            "profile": "https://www.artchgallery.com/exhibitions/14-east-coast-artwork-chaucer-silverson-artwork-in-boston/",
+            "card": "/exhibitions/14-east-coast-artwork-chaucer-silverson-artwork-in-boston/",
+            "www": "https://www.artchgallery.com/exhibitions/14-east-coast-artwork-chaucer-silverson-artwork-in-boston/"
+          },
+          "begin_date": "2021-09-17",
+          "end_date": "2021-10-04",
+          "type": "S",
+          "venue": {
+            "name": "Artch Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/images/exhibitions/main_image_override/14/c51423f7-7c5c-420b-acf0-772ee623c888.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/images/exhibitions/main_image_override/14/c51423f7-7c5c-420b-acf0-772ee623c888.jpeg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/images/exhibitions/main_image_override/14/c51423f7-7c5c-420b-acf0-772ee623c888.jpeg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/images/exhibitions/main_image_override/14/c51423f7-7c5c-420b-acf0-772ee623c888.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite0269/usr/images/exhibitions/main_image_override/14/c51423f7-7c5c-420b-acf0-772ee623c888.jpeg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "artchgallery",
+            "name": "ARTCH Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.artchgallery.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "artchgallery-10-chaucer-silverson-3-atmospheric-artworks",
+          "name": "Chaucer Silverson: 3 Atmospheric Artworks",
+          "title": "Chaucer Silverson: 3 Atmospheric Artworks",
+          "artist": "Chaucer Silverson",
+          "links": {
+            "profile": "https://www.artchgallery.com/exhibitions/10-chaucer-silverson-3-atmospheric-artworks/",
+            "card": "/exhibitions/10-chaucer-silverson-3-atmospheric-artworks/",
+            "www": "https://www.artchgallery.com/exhibitions/10-chaucer-silverson-3-atmospheric-artworks/"
+          },
+          "begin_date": "2021-08-16",
+          "end_date": "2021-09-30",
+          "type": "S",
+          "venue": {
+            "name": "Artch Gallery",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/07f2eaf75afc9a9a0e72684eaf1683ff/artchgallery-chaucer-silverson-lobster-shack-2020.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/07f2eaf75afc9a9a0e72684eaf1683ff/artchgallery-chaucer-silverson-lobster-shack-2020.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/07f2eaf75afc9a9a0e72684eaf1683ff/artchgallery-chaucer-silverson-lobster-shack-2020.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/07f2eaf75afc9a9a0e72684eaf1683ff/artchgallery-chaucer-silverson-lobster-shack-2020.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/artchgallery/images/view/07f2eaf75afc9a9a0e72684eaf1683ff/artchgallery-chaucer-silverson-lobster-shack-2020.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "artchgallery",
+            "name": "ARTCH Gallery",
+            "type": "Private Gallery",
+            "links": {
+              "profile": "https://www.artchgallery.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "eamonokane-157-play-power-the-sainsbury-centre-norwich-uk",
+          "name": "PLAY POWER: The Sainsbury Centre, Norwich, UK",
+          "title": "PLAY POWER: The Sainsbury Centre, Norwich, UK",
+          "artist": "PLAY POWER",
+          "links": {
+            "profile": "https://eamonokane.com/exhibitions/157-play-power-the-sainsbury-centre-norwich-uk/",
+            "card": "/exhibitions/157-play-power-the-sainsbury-centre-norwich-uk/",
+            "www": "https://eamonokane.com/exhibitions/157-play-power-the-sainsbury-centre-norwich-uk/"
+          },
+          "begin_date": "2026-05-16",
+          "end_date": "2026-08-31",
+          "type": "S",
+          "venue": {
+            "name": "Eamon O'Kane",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/63757596bf560dfca7b5e35bbc05b4f0j/eamono-kane-eamon-o-kane-fr-bel-studio-history-of-play-2010-present.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/63757596bf560dfca7b5e35bbc05b4f0j/eamono-kane-eamon-o-kane-fr-bel-studio-history-of-play-2010-present.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/63757596bf560dfca7b5e35bbc05b4f0j/eamono-kane-eamon-o-kane-fr-bel-studio-history-of-play-2010-present.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/63757596bf560dfca7b5e35bbc05b4f0j/eamono-kane-eamon-o-kane-fr-bel-studio-history-of-play-2010-present.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/63757596bf560dfca7b5e35bbc05b4f0j/eamono-kane-eamon-o-kane-fr-bel-studio-history-of-play-2010-present.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": {
+            "type": "Opening",
+            "begin_date": null,
+            "end_date": null,
+            "description": "Presented within the exhibition’s opening section, focusing on play, development, and psychology, O’Kane’s..."
+          },
+          "has_opening": true,
+          "organizer": {
+            "slug": "eamonokane",
+            "name": "Eamon O'Kane",
+            "type": "Artist",
+            "links": {
+              "profile": "https://eamonokane.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "eamonokane-167-island-studio-expedition-presented-aboard-the-ls-ferry",
+          "name": "Island, Studio, Expedition: Presented aboard the Læsø Ferry",
+          "title": "Island, Studio, Expedition: Presented aboard the Læsø Ferry",
+          "artist": "Island, Studio, Expedition",
+          "links": {
+            "profile": "https://eamonokane.com/exhibitions/167-island-studio-expedition-presented-aboard-the-ls-ferry/",
+            "card": "/exhibitions/167-island-studio-expedition-presented-aboard-the-ls-ferry/",
+            "www": "https://eamonokane.com/exhibitions/167-island-studio-expedition-presented-aboard-the-ls-ferry/"
+          },
+          "begin_date": "2026-05-28",
+          "end_date": "2026-08-31",
+          "type": "G",
+          "venue": {
+            "name": "Eamon O'Kane",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/images/exhibitions/main_image_override/167/per-kirkeby-mexico-relief-2026.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/images/exhibitions/main_image_override/167/per-kirkeby-mexico-relief-2026.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/images/exhibitions/main_image_override/167/per-kirkeby-mexico-relief-2026.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/images/exhibitions/main_image_override/167/per-kirkeby-mexico-relief-2026.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/images/exhibitions/main_image_override/167/per-kirkeby-mexico-relief-2026.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "eamonokane",
+            "name": "Eamon O'Kane",
+            "type": "Artist",
+            "links": {
+              "profile": "https://eamonokane.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "eamonokane-170-summertime-26-galleri-christoffer-egelund-copenhagen-denmark",
+          "name": "SUMMERTIME ’26: Galleri Christoffer Egelund, Copenhagen, Denmark",
+          "title": "SUMMERTIME ’26: Galleri Christoffer Egelund, Copenhagen, Denmark",
+          "artist": "SUMMERTIME ’26",
+          "links": {
+            "profile": "https://eamonokane.com/exhibitions/170-summertime-26-galleri-christoffer-egelund-copenhagen-denmark/",
+            "card": "/exhibitions/170-summertime-26-galleri-christoffer-egelund-copenhagen-denmark/",
+            "www": "https://eamonokane.com/exhibitions/170-summertime-26-galleri-christoffer-egelund-copenhagen-denmark/"
+          },
+          "begin_date": "2026-06-19",
+          "end_date": "2026-08-14",
+          "type": "S",
+          "venue": {
+            "name": "Eamon O'Kane",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/170/11-trees-architecture-eamon-o-kane-scaled.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/170/11-trees-architecture-eamon-o-kane-scaled.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/170/11-trees-architecture-eamon-o-kane-scaled.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/170/11-trees-architecture-eamon-o-kane-scaled.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/170/11-trees-architecture-eamon-o-kane-scaled.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "eamonokane",
+            "name": "Eamon O'Kane",
+            "type": "Artist",
+            "links": {
+              "profile": "https://eamonokane.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "eamonokane-169-botanicals-vision-platform-london-uk",
+          "name": "Botanicals: VISION Platform, London, UK",
+          "title": "Botanicals: VISION Platform, London, UK",
+          "artist": "Botanicals",
+          "links": {
+            "profile": "https://eamonokane.com/exhibitions/169-botanicals-vision-platform-london-uk/",
+            "card": "/exhibitions/169-botanicals-vision-platform-london-uk/",
+            "www": "https://eamonokane.com/exhibitions/169-botanicals-vision-platform-london-uk/"
+          },
+          "begin_date": "2026-07-17",
+          "end_date": "2026-08-14",
+          "type": "S",
+          "venue": {
+            "name": "Eamon O'Kane",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/c703ccf275be60e9f4a78626c87aa917j/eamono-kane-eamon-o-kane-jungle-black-mirror-2016-2023.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/c703ccf275be60e9f4a78626c87aa917j/eamono-kane-eamon-o-kane-jungle-black-mirror-2016-2023.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/c703ccf275be60e9f4a78626c87aa917j/eamono-kane-eamon-o-kane-jungle-black-mirror-2016-2023.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/c703ccf275be60e9f4a78626c87aa917j/eamono-kane-eamon-o-kane-jungle-black-mirror-2016-2023.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/c703ccf275be60e9f4a78626c87aa917j/eamono-kane-eamon-o-kane-jungle-black-mirror-2016-2023.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "eamonokane",
+            "name": "Eamon O'Kane",
+            "type": "Artist",
+            "links": {
+              "profile": "https://eamonokane.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "eamonokane-166-art-evolve-contemporary-art-fair-dublin-ireland",
+          "name": "Art Evolve, Contemporary Art Fair: Dublin, Ireland",
+          "title": "Art Evolve, Contemporary Art Fair: Dublin, Ireland",
+          "artist": "Art Evolve, Contemporary Art Fair",
+          "links": {
+            "profile": "https://eamonokane.com/exhibitions/166-art-evolve-contemporary-art-fair-dublin-ireland/",
+            "card": "/exhibitions/166-art-evolve-contemporary-art-fair-dublin-ireland/",
+            "www": "https://eamonokane.com/exhibitions/166-art-evolve-contemporary-art-fair-dublin-ireland/"
+          },
+          "begin_date": "2026-03-27",
+          "end_date": "2026-03-29",
+          "type": "G",
+          "venue": {
+            "name": "Eamon O'Kane",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/166/whatsapp-image-2026-03-06-at-11.28.07-1-.jpeg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/166/whatsapp-image-2026-03-06-at-11.28.07-1-.jpeg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/166/whatsapp-image-2026-03-06-at-11.28.07-1-.jpeg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/166/whatsapp-image-2026-03-06-at-11.28.07-1-.jpeg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-eamonokane/usr/exhibitions/images/exhibitions/166/whatsapp-image-2026-03-06-at-11.28.07-1-.jpeg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "eamonokane",
+            "name": "Eamon O'Kane",
+            "type": "Artist",
+            "links": {
+              "profile": "https://eamonokane.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "eamonokane-154-the-edvard-munch-winter-studio-at-ekely-oslo-studio-residency",
+          "name": "The Edvard Munch Winter Studio at Ekely, Oslo, Norway: Studio residency",
+          "title": "The Edvard Munch Winter Studio at Ekely, Oslo, Norway: Studio residency",
+          "artist": "The Edvard Munch Winter Studio at Ekely, Oslo, Norway",
+          "links": {
+            "profile": "https://eamonokane.com/exhibitions/154-the-edvard-munch-winter-studio-at-ekely-oslo-studio-residency/",
+            "card": "/exhibitions/154-the-edvard-munch-winter-studio-at-ekely-oslo-studio-residency/",
+            "www": "https://eamonokane.com/exhibitions/154-the-edvard-munch-winter-studio-at-ekely-oslo-studio-residency/"
+          },
+          "begin_date": "2026-03-01",
+          "end_date": "2026-03-31",
+          "type": "G",
+          "venue": {
+            "name": "Eamon O'Kane",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/f23534b57907b11dafbdc2a839d96c42j/eamono-kane-eamon-o-kane-edvard-munch-ekely-studio-series-black-mirror-2025.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/f23534b57907b11dafbdc2a839d96c42j/eamono-kane-eamon-o-kane-edvard-munch-ekely-studio-series-black-mirror-2025.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/f23534b57907b11dafbdc2a839d96c42j/eamono-kane-eamon-o-kane-edvard-munch-ekely-studio-series-black-mirror-2025.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/f23534b57907b11dafbdc2a839d96c42j/eamono-kane-eamon-o-kane-edvard-munch-ekely-studio-series-black-mirror-2025.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/eamonokane/images/view/f23534b57907b11dafbdc2a839d96c42j/eamono-kane-eamon-o-kane-edvard-munch-ekely-studio-series-black-mirror-2025.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "eamonokane",
+            "name": "Eamon O'Kane",
+            "type": "Artist",
+            "links": {
+              "profile": "https://eamonokane.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "helenbooth-15-small-is-beautiful-edition-43-flowers-gallery-group-exhibition",
+          "name": "SMALL IS BEAUTIFUL (Edition 43) - Flowers Gallery - London: Group Exhibition",
+          "title": "SMALL IS BEAUTIFUL (Edition 43) - Flowers Gallery - London: Group Exhibition",
+          "artist": "SMALL IS BEAUTIFUL (Edition 43) - Flowers Gallery - London",
+          "links": {
+            "profile": "https://www.helenbooth.com/exhibitions/15-small-is-beautiful-edition-43-flowers-gallery-group-exhibition/",
+            "card": "/exhibitions/15-small-is-beautiful-edition-43-flowers-gallery-group-exhibition/",
+            "www": "https://www.helenbooth.com/exhibitions/15-small-is-beautiful-edition-43-flowers-gallery-group-exhibition/"
+          },
+          "begin_date": "2025-11-21",
+          "end_date": "2026-01-10",
+          "type": "G",
+          "venue": {
+            "name": "Helen Booth",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/15/flowers-small-is-beautiful.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/15/flowers-small-is-beautiful.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/15/flowers-small-is-beautiful.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/15/flowers-small-is-beautiful.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/15/flowers-small-is-beautiful.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "helenbooth",
+            "name": "Helen Booth",
+            "type": "Artist",
+            "links": {
+              "profile": "https://www.helenbooth.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "helenbooth-16-time-loughran-gallery-uk-group-exhibition",
+          "name": "TIME- Loughran Gallery - UK: Group Exhibition",
+          "title": "TIME- Loughran Gallery - UK: Group Exhibition",
+          "artist": "TIME- Loughran Gallery - UK",
+          "links": {
+            "profile": "https://www.helenbooth.com/exhibitions/16-time-loughran-gallery-uk-group-exhibition/",
+            "card": "/exhibitions/16-time-loughran-gallery-uk-group-exhibition/",
+            "www": "https://www.helenbooth.com/exhibitions/16-time-loughran-gallery-uk-group-exhibition/"
+          },
+          "begin_date": "2025-10-10",
+          "end_date": "2025-12-31",
+          "type": "G",
+          "venue": {
+            "name": "Helen Booth",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/16/loughran-gallery.png",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/16/loughran-gallery.png",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/16/loughran-gallery.png",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/16/loughran-gallery.png",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/16/loughran-gallery.png",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "helenbooth",
+            "name": "Helen Booth",
+            "type": "Artist",
+            "links": {
+              "profile": "https://www.helenbooth.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "helenbooth-17-holly-hunt-richeldis-fine-art-new-york-presentation",
+          "name": "Holly Hunt & Richeldis Fine Art- New York, Seattle, Dallas & Miami: Presentation",
+          "title": "Holly Hunt & Richeldis Fine Art- New York, Seattle, Dallas & Miami: Presentation",
+          "artist": "Holly Hunt & Richeldis Fine Art- New York, Seattle, Dallas & Miami",
+          "links": {
+            "profile": "https://www.helenbooth.com/exhibitions/17-holly-hunt-richeldis-fine-art-new-york-presentation/",
+            "card": "/exhibitions/17-holly-hunt-richeldis-fine-art-new-york-presentation/",
+            "www": "https://www.helenbooth.com/exhibitions/17-holly-hunt-richeldis-fine-art-new-york-presentation/"
+          },
+          "begin_date": "2025-09-01",
+          "end_date": "2026-03-26",
+          "type": "G",
+          "venue": {
+            "name": "Helen Booth",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/17/acceptance-on-gallery-wall.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/17/acceptance-on-gallery-wall.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/17/acceptance-on-gallery-wall.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/17/acceptance-on-gallery-wall.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/images/exhibitions/main_image_override/17/acceptance-on-gallery-wall.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "helenbooth",
+            "name": "Helen Booth",
+            "type": "Artist",
+            "links": {
+              "profile": "https://www.helenbooth.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "helenbooth-20-9-rooms-bam-arts-advisory-larchmont-ny-group-exhibition",
+          "name": "9 ROOMS - BAM Arts Advisory, Larchmont NY: Group Exhibition",
+          "title": "9 ROOMS - BAM Arts Advisory, Larchmont NY: Group Exhibition",
+          "artist": "9 ROOMS - BAM Arts Advisory, Larchmont NY",
+          "links": {
+            "profile": "https://www.helenbooth.com/exhibitions/20-9-rooms-bam-arts-advisory-larchmont-ny-group-exhibition/",
+            "card": "/exhibitions/20-9-rooms-bam-arts-advisory-larchmont-ny-group-exhibition/",
+            "www": "https://www.helenbooth.com/exhibitions/20-9-rooms-bam-arts-advisory-larchmont-ny-group-exhibition/"
+          },
+          "begin_date": "2025-06-06",
+          "end_date": "2025-06-27",
+          "type": "G",
+          "venue": {
+            "name": "Helen Booth",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/helenbooth/images/view/bfeede9262f34f51e43ffc0f10a511a9/helenbooth-whisper-series-2-2024.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/helenbooth/images/view/bfeede9262f34f51e43ffc0f10a511a9/helenbooth-whisper-series-2-2024.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/helenbooth/images/view/bfeede9262f34f51e43ffc0f10a511a9/helenbooth-whisper-series-2-2024.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/artlogicstorage/helenbooth/images/view/bfeede9262f34f51e43ffc0f10a511a9/helenbooth-whisper-series-2-2024.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/helenbooth/images/view/bfeede9262f34f51e43ffc0f10a511a9/helenbooth-whisper-series-2-2024.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "helenbooth",
+            "name": "Helen Booth",
+            "type": "Artist",
+            "links": {
+              "profile": "https://www.helenbooth.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "helenbooth-21-love-loughran-gallery-group-exhibition",
+          "name": "LOVE - Loughran Gallery: Group Exhibition",
+          "title": "LOVE - Loughran Gallery: Group Exhibition",
+          "artist": "LOVE - Loughran Gallery",
+          "links": {
+            "profile": "https://www.helenbooth.com/exhibitions/21-love-loughran-gallery-group-exhibition/",
+            "card": "/exhibitions/21-love-loughran-gallery-group-exhibition/",
+            "www": "https://www.helenbooth.com/exhibitions/21-love-loughran-gallery-group-exhibition/"
+          },
+          "begin_date": "2025-03-04",
+          "end_date": "2025-05-31",
+          "type": "G",
+          "venue": {
+            "name": "Helen Booth",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/21/small-works.jpg",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/21/small-works.jpg",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/21/small-works.jpg",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/21/small-works.jpg",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/21/small-works.jpg",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "helenbooth",
+            "name": "Helen Booth",
+            "type": "Artist",
+            "links": {
+              "profile": "https://www.helenbooth.com",
+              "card": null
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "exhibition": {
+          "id": "helenbooth-10-raconte-moi-une-histoire-rart-gallery-evian-les-2-person-exhibition",
+          "name": "RACONTE-MOI UNE HISTOIRE - Rart Gallery, Evian Les Bains, France: 2 Person Exhibition",
+          "title": "RACONTE-MOI UNE HISTOIRE - Rart Gallery, Evian Les Bains, France: 2 Person Exhibition",
+          "artist": "RACONTE-MOI UNE HISTOIRE - Rart Gallery, Evian Les Bains, France",
+          "links": {
+            "profile": "https://www.helenbooth.com/exhibitions/10-raconte-moi-une-histoire-rart-gallery-evian-les-2-person-exhibition/",
+            "card": "/exhibitions/10-raconte-moi-une-histoire-rart-gallery-evian-les-2-person-exhibition/",
+            "www": "https://www.helenbooth.com/exhibitions/10-raconte-moi-une-histoire-rart-gallery-evian-les-2-person-exhibition/"
+          },
+          "begin_date": "2025-02-28",
+          "end_date": "2025-04-30",
+          "type": "G",
+          "venue": {
+            "name": "Helen Booth",
+            "address": null,
+            "zip": null,
+            "city": null,
+            "geolocation": null
+          },
+          "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/10/screenshot-2025-11-13-at-18.44.01.png",
+          "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/10/screenshot-2025-11-13-at-18.44.01.png",
+          "images": [
+            {
+              "image_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/10/screenshot-2025-11-13-at-18.44.01.png",
+              "preview_url": "https://static-assets.artlogic.net/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/10/screenshot-2025-11-13-at-18.44.01.png",
+              "thumb_url": "https://static-assets.artlogic.net/w_3000,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite1607/usr/exhibitions/images/exhibitions/10/screenshot-2025-11-13-at-18.44.01.png",
+              "is_featured": true
+            }
+          ],
+          "is_featured": false,
+          "opening": null,
+          "has_opening": false,
+          "organizer": {
+            "slug": "helenbooth",
+            "name": "Helen Booth",
+            "type": "Artist",
+            "links": {
+              "profile": "https://www.helenbooth.com",
+              "card": null
+            }
+          }
+        }
+      }
+    }
+  ]
+}

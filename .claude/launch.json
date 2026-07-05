@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "lisbon-exhibitions",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "/Users/andryusha/Documents/Repositories/lisbon-exhibitions",
+      "port": 5173
+    }
+  ]
+}
